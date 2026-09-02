@@ -1,4 +1,12 @@
-![Alt text](path/to/github banner.png)
+<p align="center">
+  <img src="./github banner.png" alt="GitHub Profile Banner" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Shafin Ahmed</h1>
+
+<p align="center">
+  Full Stack Web Developer | Software Engineer
+</p>
 # 💫 About Me:
 🏗️ I’m currently working on full-stack web development projects  <br>🤝 I’m looking to collaborate on web development projects  <br>🆘 I’m looking for help with improving my problem-solving & DSA skills  <br>🌱 I’m currently learning React, TypeScript, Node.js & backend development  <br>💬 Ask me about JavaScript, React, TypeScript & web development  <br>⚡ Fun fact: I’m working toward becoming a professional Software Engineer
 
@@ -12,9 +20,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=Shafin-Ahmed-201&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Shafin-Ahmed-201&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shafin-Ahmed-201&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=Shafin-Ahmed-201&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
