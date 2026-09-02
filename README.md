@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[./github banner.png](https://github.com/Shafin-Ahmed-201/Shafin-Ahmed-201/blob/e1fdb1b6bfeef3b2d96ea5561ad71f1377c14359/ChatGPT%20Image%20Sep%202%2C%202026%2C%2001_44_20%20PM.png)" alt="GitHub Profile Banner" width="100%">
+  <img src="./ChatGPT Image Sep 2, 2026, 01_44_20 PM.png">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shafin Ahmed</h1>
