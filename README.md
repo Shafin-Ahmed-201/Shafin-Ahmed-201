@@ -1,4 +1,4 @@
-![Alt text](github banner.png)
+![Alt text](path/to/github banner.png)
 # 💫 About Me:
 🏗️ I’m currently working on full-stack web development projects  <br>🤝 I’m looking to collaborate on web development projects  <br>🆘 I’m looking for help with improving my problem-solving & DSA skills  <br>🌱 I’m currently learning React, TypeScript, Node.js & backend development  <br>💬 Ask me about JavaScript, React, TypeScript & web development  <br>⚡ Fun fact: I’m working toward becoming a professional Software Engineer
 
